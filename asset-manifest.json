@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puzzle/static/css/main.58bdec53.css",
+    "main.js": "/puzzle/static/js/main.42e4fc1c.js",
+    "static/js/453.0538bd16.chunk.js": "/puzzle/static/js/453.0538bd16.chunk.js",
+    "index.html": "/puzzle/index.html",
+    "main.58bdec53.css.map": "/puzzle/static/css/main.58bdec53.css.map",
+    "main.42e4fc1c.js.map": "/puzzle/static/js/main.42e4fc1c.js.map",
+    "453.0538bd16.chunk.js.map": "/puzzle/static/js/453.0538bd16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58bdec53.css",
+    "static/js/main.42e4fc1c.js"
+  ]
+}
